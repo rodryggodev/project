@@ -1,7 +1,4 @@
 header {
-	width: 1024px;
-	margin: 30px auto;
-	
 	/* flexbox*/
 	display: flex;
 	flex-direction: row;
