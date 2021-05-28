@@ -1,11 +1,12 @@
-
 header {
-	/* usando flexbox */
+	width: 1024px;
+	margin: 30px auto;
+	
+	/* flexbox*/
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	
 }
 
 header > nav > ul {
@@ -13,10 +14,9 @@ header > nav > ul {
 	flex-direction: row;
 	align-items: center;
 	list-style: none;
-
 }
 
-header > nav > ul > li >a { 
-	margin: 15px;
+header > nav > ul > li > a {
+	margin: 0 15px;
 	color: #3399CC;
 }

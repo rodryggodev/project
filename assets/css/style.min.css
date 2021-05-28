@@ -12,13 +12,8 @@
 	border: 0;
 	font-size: 100%;
 	font-family: 'Source Sans Pro', sans-serif;
-	font: inherit;
 	vertical-align: baseline;
 	text-decoration: none;
-	
 }
 
-.containe {
-	width: 1024px;
-	margin: 30px auto;
-}
+
