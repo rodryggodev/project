@@ -4,6 +4,7 @@
 /* importando arquivo header style*/
 @import "./header.css";
 @import "./buttons.css";
+@import "./main.css";
 
 /* resetando css pelo elemento root(raiz)*/
 * {
@@ -14,9 +15,15 @@
 	font-family: 'Source Sans Pro', sans-serif;
 	vertical-align: baseline;
 	text-decoration: none;
+	font-weight: 300;
 }
 
 .container {
 	width: 1024px;
 	margin: 30px auto;
+}
+
+.row{
+	display: flex;
+	flex-direction: row;
 }
