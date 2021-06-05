@@ -6,6 +6,7 @@
 @import "./buttons.css";
 @import "./main.css";
 @import "./footer.css";
+@import "./responsive-background.css";
 
 /* resetando css pelo elemento root(raiz)*/
 * {
