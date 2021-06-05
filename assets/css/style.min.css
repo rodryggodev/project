@@ -5,6 +5,7 @@
 @import "./header.css";
 @import "./buttons.css";
 @import "./main.css";
+@import "./footer.css";
 
 /* resetando css pelo elemento root(raiz)*/
 * {
@@ -22,7 +23,7 @@
 body {
 	background-image: url('../images/bolha-background.png');
 	background-repeat: no-repeat;
-	position: left center;
+	backround-position: left center;
 }
 
 .container {
